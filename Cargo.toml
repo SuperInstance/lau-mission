@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2024"
 license = "MIT"
 repository = "https://github.com/SuperInstance/lau-mission"
+description = "Rust library for mission in the PLATO ecosystem"
 
 [dependencies]
 serde = { version = "1.0.228", features = ["derive"] }
